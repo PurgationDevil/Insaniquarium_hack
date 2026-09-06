@@ -57,7 +57,7 @@
 
 ### 方法二：源码运行
 ```bash
-# 1. 克隆仓库
+# 1. 克隆仓库或直接网页下载 Insaniquarium_hack_v1.0.py 文件
 git clone https://github.com/你的用户名/仓库名.git
 cd 仓库名
 
@@ -65,7 +65,7 @@ cd 仓库名
 pip install -r requirements.txt
 
 # 3. 运行
-python 怪怪水族馆外挂1.0.py
+python Insaniquarium_hack_v1.0.py
 ```
 
 ---

@@ -3,7 +3,6 @@
   <a href="README.zh.md">简体中文</a>
 </p>
 
-# Insaniquarium_hack
 Disclaimer: This is for educational and technical discussion purposes only. Any commercial use is strictly prohibited.
 
 # 🐠 Insaniquarium Deluxe Trainer

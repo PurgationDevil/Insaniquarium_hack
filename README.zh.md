@@ -3,6 +3,8 @@
   <strong>简体中文</strong>
 </p>
 
+仅做技术讨论，切勿商业用途
+
 # 🐠 怪怪水族馆 修改器 (Insaniquarium Deluxe Trainer)
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -42,7 +44,7 @@
 
 | 主界面 | 存档修改器 |
 |---|---|
-| ![主界面](screenshot_main.png) | ![存档界面](screenshot_save.png) |
+| ![主界面](./screenshot_main.png) | ![存档界面](./screenshot_save.png) |
 
 ---
 

@@ -3,7 +3,7 @@
   <strong>简体中文</strong>
 </p>
 
-仅做技术讨论，切勿商业用途
+仅做技术讨论，切勿用于商业用途
 
 # 🐠 怪怪水族馆 修改器 (Insaniquarium Deluxe Trainer)
 

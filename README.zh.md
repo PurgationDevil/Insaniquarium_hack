@@ -111,7 +111,7 @@ pyinstaller -F -w 怪怪水族馆外挂1.0.py
 
 ## 📬 反馈
 
-如有问题或建议，欢迎提 [Issue](../../issues) 或 [Pull Request](../../pulls)。
+邮箱：3395915226@qq.com
 
 ---
 

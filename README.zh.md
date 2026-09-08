@@ -58,7 +58,7 @@
 ### 方法二：源码运行
 ```bash
 # 1. 克隆仓库或直接网页下载 Insaniquarium_hack_v1.0.py 文件
-git clone https://github.com/你的用户名/仓库名.git
+git clone https://github.com/PurgationDevil/Insaniquarium_hack.git
 cd 仓库名
 
 # 2. 安装依赖

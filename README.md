@@ -58,7 +58,7 @@ Disclaimer: This is for educational and technical discussion purposes only. Any 
 ### Option 2: Run from Source
 ```bash
 # 1. Clone the repo or download Insaniquarium_hack_v1.0.py file
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/PurgationDevil/Insaniquarium_hack.git
 cd your-repo
 
 # 2. Install dependencies
